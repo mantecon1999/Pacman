@@ -8,22 +8,6 @@
 
 <h1 align="center">Pac-Man Project</h1>
 
-<p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/mantecon1999/workspace?color=56BEB8">
-
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/mantecon1999/workspace?color=56BEB8">
-
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/mantecon1999/workspace?color=56BEB8">
-
-  <img alt="License" src="https://img.shields.io/github/license/mantecon1999/workspace?color=56BEB8">
-
-  <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/mantecon1999/workspace?color=56BEB8" /> -->
-
-  <!-- <img alt="Github forks" src="https://img.shields.io/github/forks/mantecon1999/workspace?color=56BEB8" /> -->
-
-  <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/mantecon1999/workspace?color=56BEB8" /> -->
-</p>
-
 <!-- Status -->
 
 <!-- <h4 align="center"> 
@@ -58,13 +42,6 @@ $ git clone https://github.com/mantecon1999/workspace
 # Access
 $ cd workspace
 
-# Install dependencies
-$ yarn
-
-# Run the project
-$ yarn start
-
-# The server will initialize in the <http://localhost:3000>
 ```
 
 ## :memo: License ##
@@ -72,7 +49,7 @@ $ yarn start
 This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
 
 
-Made with :heart: by <a href="https://github.com/mantecon1999" target="_blank">{{YOUR_NAME}}</a>
+Made with :heart: by <a href="https://github.com/mantecon1999" target="_blank">Mateo Contreras</a>
 
 &#xa0;
 

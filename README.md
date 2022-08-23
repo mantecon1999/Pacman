@@ -9,19 +9,19 @@
 <h1 align="center">Workspace</h1>
 
 <p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/mateocon1999/workspace?color=56BEB8">
+  <img alt="Github top language" src="https://img.shields.io/github/languages/top/mantecon1999/workspace?color=56BEB8">
 
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/mateocon1999/workspace?color=56BEB8">
+  <img alt="Github language count" src="https://img.shields.io/github/languages/count/mantecon1999/workspace?color=56BEB8">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/mateocon1999/workspace?color=56BEB8">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/mantecon1999/workspace?color=56BEB8">
 
-  <img alt="License" src="https://img.shields.io/github/license/mateocon1999/workspace?color=56BEB8">
+  <img alt="License" src="https://img.shields.io/github/license/mantecon1999/workspace?color=56BEB8">
 
-  <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/mateocon1999/workspace?color=56BEB8" /> -->
+  <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/mantecon1999/workspace?color=56BEB8" /> -->
 
-  <!-- <img alt="Github forks" src="https://img.shields.io/github/forks/mateocon1999/workspace?color=56BEB8" /> -->
+  <!-- <img alt="Github forks" src="https://img.shields.io/github/forks/mantecon1999/workspace?color=56BEB8" /> -->
 
-  <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/mateocon1999/workspace?color=56BEB8" /> -->
+  <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/mantecon1999/workspace?color=56BEB8" /> -->
 </p>
 
 <!-- Status -->
@@ -39,14 +39,15 @@
   <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;
   <a href="#checkered_flag-starting">Starting</a> &#xa0; | &#xa0;
   <a href="#memo-license">License</a> &#xa0; | &#xa0;
-  <a href="https://github.com/mateocon1999" target="_blank">Author</a>
+  <a href="https://github.com/mantecon1999" target="_blank">Author</a>
 </p>
 
 <br>
 
 ## :dart: About ##
 
-Describe your project
+The goal of this project is to create pac-man with a button and then move them randomly through the screen.
+The tools to accomplish this goal were JavaScript and the DOM manipulation.
 
 ## :sparkles: Features ##
 
@@ -72,7 +73,7 @@ Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) an
 
 ```bash
 # Clone this project
-$ git clone https://github.com/mateocon1999/workspace
+$ git clone https://github.com/mantecon1999/workspace
 
 # Access
 $ cd workspace
@@ -91,7 +92,7 @@ $ yarn start
 This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
 
 
-Made with :heart: by <a href="https://github.com/mateocon1999" target="_blank">{{YOUR_NAME}}</a>
+Made with :heart: by <a href="https://github.com/mantecon1999" target="_blank">{{YOUR_NAME}}</a>
 
 &#xa0;
 

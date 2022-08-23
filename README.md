@@ -1,12 +1,12 @@
 <div align="center" id="top"> 
-  <img src="./.github/app.gif" alt="Workspace" />
+  <img src="./images/PacMan1.png" alt="Workspace" />
 
   &#xa0;
 
   <!-- <a href="https://workspace.netlify.app">Demo</a> -->
 </div>
 
-<h1 align="center">Workspace</h1>
+<h1 align="center">Pac-Man Project</h1>
 
 <p align="center">
   <img alt="Github top language" src="https://img.shields.io/github/languages/top/mantecon1999/workspace?color=56BEB8">

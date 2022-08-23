@@ -33,16 +33,12 @@ The goal of this project is to create pac-man with a button and then move them r
 The tools to accomplish this goal were JavaScript and the DOM manipulation.
 
 
-## :checkered_flag: Starting ##
+## :checkered_flag: RoadMap ##
 
-```bash
-# Clone this project
-$ git clone https://github.com/mantecon1999/workspace
-
-# Access
-$ cd workspace
-
-```
+- Make the Pacmans bounce when they touch each other
+- Give a better style to buttons and background color
+- Stop the animation with a click
+- Starting the animation from scratch
 
 ## :memo: License ##
 
